@@ -1,7 +1,7 @@
 # Creative Bakery Landing Page pet-project
 - [DEMO LINK](https://d-hubych.github.io/landing_page_creativeBakery/)
 
-Implemented landing page according to [Figma design](https://www.figma.com/file/dY3izAm0Vspsmra4lQWQIP/Bakerlab-FE-students?node-id=0%3A1)
+Implemented landing page according to [Figma design](https://www.figma.com/file/tMfUISBcHTkuqor1XBMRHf/%5Bobsolete%5D-Bakerlab?type=design)
 
 ## Technologies:
 - HTML
