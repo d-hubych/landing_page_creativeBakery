@@ -4,6 +4,13 @@
   gap: 30px;
   flex-direction: column;
 
+  &__tel {
+    transition: color $transition-duration;
+    &:hover {
+      color: $c-white;
+    }
+  }
+
   @include onTablet {
     flex-direction: row;
     gap: 20px;

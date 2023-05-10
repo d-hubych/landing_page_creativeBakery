@@ -1,7 +1,6 @@
 .nav {
   @include onTablet {
-    margin: auto;
-    margin-top: 44px;
+    margin: 44px auto auto;
     align-items: center;
   }
 

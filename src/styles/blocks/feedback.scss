@@ -28,9 +28,8 @@
     opacity: 0.5;
     outline: transparent;
     
-    border: none;
+    border: none $c-chocolate;
     border-bottom: 1px solid;
-    border-color: $c-chocolate;
     transition: $transition-duration;
 
 
